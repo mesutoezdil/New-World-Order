@@ -6,6 +6,6 @@ It is one of the proposals of the New World Order to humanity.
 
 SCSS, CSS, HTML
 
-<h2> Screen Picture</h2>
+<h2>Screenshot</h2>
 
 ![](screen.png)
